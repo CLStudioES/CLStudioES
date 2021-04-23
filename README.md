@@ -9,7 +9,7 @@ const CLStudioES = {
   tools: [Docker, Unity],
 }
 ```
-You can find me :earth::
+You can find me :earth_americas::
 - [Website](https://clstudio.es/)
 <!--
 **CLStudioES/CLStudioES** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
