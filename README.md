@@ -34,7 +34,7 @@ Home automation projects :house: :
 - :house_with_garden: [Ardva](https://github.com/CLStudioES/Ardva)
 
 Indie videogame development :house: :
-- 👾: [42Madrid GGJ symposium](https://github.com/CLStudioES/Ardva)
+- 👾 [42Madrid GGJ symposium](https://github.com/CLStudioES/42Madrid-GGJ)
 
 <!--[![CLStudioES's GitHub stats](https://github-readme-stats.vercel.app/api?username=CLStudioES)](https://github.com/anuraghazra/github-readme-stats)-->
 <!--
