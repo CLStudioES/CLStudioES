@@ -22,7 +22,7 @@ public class CLStudioES : MonoBehaviour
 }
 ```
 You can find me :earth_americas::
-- [CLStudio website](https://clstudio.es/)
+- :milky_way: [CLStudio website](https://clstudio.es/)
 
 <!--[![CLStudioES's GitHub stats](https://github-readme-stats.vercel.app/api?username=CLStudioES)](https://github.com/anuraghazra/github-readme-stats)-->
 <!--
