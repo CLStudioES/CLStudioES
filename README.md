@@ -36,6 +36,9 @@ Home automation projects :house: :
 Indie videogame development :house: :
 - 👾 [42Madrid GGJ symposium](https://github.com/CLStudioES/42Madrid-GGJ)
 
+App free license templates 📱: :
+- Oops, nothing to show yet
+
 <!--[![CLStudioES's GitHub stats](https://github-readme-stats.vercel.app/api?username=CLStudioES)](https://github.com/anuraghazra/github-readme-stats)-->
 <!--
 **CLStudioES/CLStudioES** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
