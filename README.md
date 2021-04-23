@@ -5,7 +5,7 @@
 ```js
 const CLStudioES = {
   pronouns: "he" | "him",
-  code: [HTML, CSS, PHP, Java, C, C++, C#, Flutter, Dart],
+  code: [HTML, CSS, Php, Java, C, C++, C#, Flutter, Dart],
   tools: [Docker, Unity],
 }
 ```
