@@ -1,5 +1,14 @@
-### Hi there 👋
+### Hi, I'm Carlos 👋:computer:
 
+![me](https://clstudio.es/img/Bg1.jpg)
+
+```js
+const clstudioes = {
+  pronouns: "he" | "him",
+  code: [HTML, CSS, PHP, Java, C, C++, C#, Flutter, Dart],
+  tools: [Docker, Unity],
+}
+````
 <!--
 **CLStudioES/CLStudioES** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
