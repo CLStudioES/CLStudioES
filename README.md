@@ -27,6 +27,12 @@ You can find me :earth_americas::
 Collabs and others :clap: :
 - :video_game: [Global Game Jam 2020](https://pabgre.itch.io/beat-n-repair)
 
+42 Projects :robot: :
+- Oops
+
+Home automation projects :house: :
+- :house_with_garden: [Ardva](https://pabgre.itch.io/beat-n-repair)
+
 <!--[![CLStudioES's GitHub stats](https://github-readme-stats.vercel.app/api?username=CLStudioES)](https://github.com/anuraghazra/github-readme-stats)-->
 <!--
 **CLStudioES/CLStudioES** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
