@@ -33,7 +33,7 @@ Collabs and others :clap: :
 Home automation projects :house: :
 - :house_with_garden: [Ardva](https://github.com/CLStudioES/Ardva)
 
-Indie videogame development :house: :
+Indie videogame development ⚡ :
 - 👾 [42Madrid GGJ symposium](https://github.com/CLStudioES/42Madrid-GGJ)
 
 App free license templates 📱 :
