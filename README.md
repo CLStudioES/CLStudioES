@@ -1,4 +1,4 @@
-### Hi, I'm Carlos 👋:computer:
+### Hi, I'm Carlos 👋 💻:
 
 ![me](https://clstudio.es/img/Bg1.jpg)
 
