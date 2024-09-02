@@ -28,10 +28,10 @@ Collabs and others :clap: :
 - :video_game: [Global Game Jam 2020](https://v3.globalgamejam.org/2020/games/beatn-repair-3)
 
 42 Projects :robot: :
-- :robot: [42Projects](https://github.com/CLStudioES/Ardva)
+- :robot: [42Projects](https://github.com/CLStudioES/42Projects)
 
 Home automation projects :house: :
-- :house_with_garden: [Ardva](https://github.com/CLStudioES/42Projects)
+- :house_with_garden: [Ardva](https://github.com/CLStudioES/Ardva)
 
 Indie videogame development ⚡ :
 - 👾 [42Madrid GGJ symposium](https://github.com/CLStudioES/42Madrid-GGJ)
