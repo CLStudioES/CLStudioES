@@ -22,10 +22,10 @@ public class CLStudioES : MonoBehaviour
 }
 ```
 You can find me :earth_americas::
-- :milky_way: [CLStudio website](https://clstudio.es/)
+- :milky_way: [CLStudio website](https://clstudio.dev/)
 
 Collabs and others :clap: :
-- :video_game: [Global Game Jam 2020](https://pabgre.itch.io/beat-n-repair)
+- :video_game: [Global Game Jam 2020](https://v3.globalgamejam.org/2020/games/beatn-repair-3)
 
 42 Projects :robot: :
 - Oops, nothing to show yet
