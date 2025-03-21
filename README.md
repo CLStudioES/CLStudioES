@@ -11,7 +11,7 @@ using UnityEngine;
 public class CLStudioES : MonoBehaviour
 {
     public List<string> pronouns = new List<string>{"He", "Him"};
-    public List<string> code = new List<string>{"HTML", "CSS", "Php", "Java", "C", "C++", "C#", "Flutter", "Dart"};
+    public List<string> code = new List<string>{"HTML", "CSS", "TailwindCSS", "Astro", "JavaScript", "C", "C++", "C#", "Flutter", "Dart"};
     public List<string> tools = new List<string>{"Docker", "Unity"};
     
     void Start()
@@ -26,6 +26,7 @@ You can find me :earth_americas::
 
 Collabs and others :clap: :
 - :video_game: [Global Game Jam 2020](https://v3.globalgamejam.org/2020/games/beatn-repair-3)
+- :zombie: [Cloudinary Spooky Hackathon]([https://v3.globalgamejam.org/2020/games/beatn-repair-3](https://spooky-hackaton-cloudinary.vercel.app/))
 
 42 Projects :robot: :
 - :robot: [42Projects](https://github.com/CLStudioES/42Projects)
