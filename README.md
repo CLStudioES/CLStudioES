@@ -1,7 +1,5 @@
 ### Hi, I'm Carlos 👋 💻:
 
-![me](https://clstudio.es/img/Bg1.jpg)
-
 :information_desk_person: About me in Unity C# code:
 ```C#
 using System.Collections;
