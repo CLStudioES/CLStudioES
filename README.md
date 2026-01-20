@@ -1,13 +1,13 @@
 # Hi, I'm Carlos 👋
 
-<div align="center">
-  <h3>🚀 Full Stack Developer | 🎮 Game Developer | 🏠 IoT Enthusiast</h3>
+<div align="left">
+  <h3>Full Stack Developer | Game Developer | IoT Enthusiast</h3>
   <p><em>Transforming ideas into digital experiences</em></p>
 </div>
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+<div align="left">
 
 **Frontend & Web**
 
@@ -35,7 +35,7 @@
 
 </div>
 
-## 👨💻 About Me
+## 👨About Me
 
 ```astro
 ---
