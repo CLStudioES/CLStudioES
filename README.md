@@ -39,7 +39,6 @@
 
 ```astro
 ---
-// Developer.astro
 interface Props {
   name: string;
   pronouns: string[];
@@ -56,8 +55,6 @@ const specialties = [
   "IoT Solutions", 
   "Real-time Applications"
 ];
-
-console.log("Ready to build amazing things! 🚀");
 ---
 
 <div class="developer-card">
