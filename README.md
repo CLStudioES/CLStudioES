@@ -1,104 +1,62 @@
-# Hi, I'm Carlos 👋
+# Carlos | Full Stack Developer
 
-<div align="left">
-  <h3>Full Stack Developer | Game Developer | IoT Enthusiast</h3>
-  <p><em>Transforming ideas into digital experiences</em></p>
-</div>
+Software Engineer with +14 years of coding experience and +8 years of professional expertise. I specialize in building high-performance web architectures, optimizing developer workflows, and transforming complex data into functional, aesthetic interfaces.
 
-## 🛠️ Tech Stack
-
-<div align="left">
-
-**Frontend & Web**
-
-![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
-**Backend & Database**
-
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
-![SQL](https://img.shields.io/badge/sql-%23003B57.svg?style=for-the-badge&logo=MySQL&logoColor=white)
-
-**Game Development**
-
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-
-**Tools & Others**
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
-</div>
-
-## 👨About Me
-
-```astro
----
-interface Props {
-  name: string;
-  pronouns: string[];
-  location: string;
-}
-
-const { name, pronouns, location } = Astro.props;
-
-const languages = ["JavaScript", "TypeScript", "C#", "SQL"];
-const frameworks = ["Astro", "Express", "Unity", "TailwindCSS"];
-const specialties = [
-  "Full Stack Development", 
-  "Game Development",
-  "IoT Solutions", 
-  "Real-time Applications"
-];
 ---
 
-<div class="developer-card">
-  <h2>Hi, I'm {name}!</h2>
-  <p>Pronouns: {pronouns.join("/")}</p>
-  <p>Location: {location}</p>
-</div>
-```
+## • About Me
 
-## 🌐 Find Me Online
+* 🚀 **Currently Building**: **[TailEngine](https://github.com/CLStudioES/TailEngine)**, a developer-focused platform that compiles Tailwind CSS v4 into compliant, inline-styled HTML for professional emails.
+* 🎨 **Open Source**: Author of the **[Tailwind CSS v4 Migrator](https://github.com/CLStudioES/tailwind-v4-migrator)**, an automated platform to migrate Tailwind CSS v3 style configurations into the modern v4 CSS variable format.
+* 📊 **Background**: Co-creator of **Gipfarma Analytics**, a comprehensive CRM/Analysis platform for the pharmaceutical sector.
+* 🗣️ **Languages**: Native Spanish and **C2 Proficiency (CPE)** English (Cambridge Certified).
 
-<div align="center">
+---
 
-[![Website](https://img.shields.io/badge/🌐_Website-CLStudio.dev-blue?style=for-the-badge)](https://clstudio.dev/)
-[![X](https://img.shields.io/badge/X-@CLDev94-black?style=for-the-badge&logo=x)](https://x.com/CLDev94)
+## • Tech Stack
 
-</div>
+### Frontend & Frameworks
+![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=flat-square&logo=astro&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 
-## 🚀 Featured Public Projects
+### Backend & Infrastructure
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socket.io&badgeColor=010101)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
 
-### 🌐 Web Development
+### Game Dev & Legacy Skills
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white)
 
-<div align="left">
+---
 
-**🎃 [Cloudinary Spooky Hackathon](https://spooky-hackaton-cloudinary.vercel.app/)**
+## • Featured Projects
 
-- Interactive web application
-- Cloudinary API integration
-- Modern frontend technologies
+### ⚡ TailEngine
+A developer-focused platform that compiles Tailwind CSS v4 into compliant, inline-styled HTML for professional emails.
 
-**🎨 [Tailwind CSS v4 Migrator](https://github.com/CLStudioES/tailwind-v4-migrator)**
+### 🎨 Tailwind CSS v4 Migrator
+Automated platform to migrate Tailwind CSS v3 style configurations into the modern v4 CSS variable format.
 
-- Automated migration tool from Tailwind v3 to v4
+**Migration Example:**
 
-<table>
-<tr>
-<td><strong>Tailwind v3</strong></td>
-<td><strong>Tailwind v4</strong></td>
-</tr>
-<tr>
-<td>
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="50%" align="left">Input: tailwind.config.js (v3)</th>
+      <th width="50%" align="left">Output: global.css (v4)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td width="50%" valign="top">
 
-```js
-// tailwind.config.js
+```javascript
 module.exports = {
   theme: {
     extend: {
@@ -106,88 +64,47 @@ module.exports = {
         primary: {
           blue: "#84D5FA",
           teal: "#02a89e",
-        },
-        neutral: {
-          gray: "#AAABAC",
-          light: "#F7F7F7",
-        },
-      },
-    },
-  },
+        }
+      }
+    }
+  }
 };
 ```
 
 </td>
-<td>
+<td width="50%" valign="top">
 
 ```css
-/* global.css */
 @theme {
   --color-primary-blue: #84d5fa;
   --color-primary-teal: #02a89e;
   --color-neutral-gray: #aaabac;
-  --color-neutral-light: #f7f7f7;
   --color-white: #ffffff;
-  --color-black: #000000;
 }
 ```
 
 </td>
-</tr>
+    </tr>
+  </tbody>
 </table>
 
-</div>
+---
 
-### 🎓 Educational Projects
+## • Other Projects
 
-<div align="left">
+* **[Cloudinary Spooky Hackathon](https://github.com/CLStudioES/spookyHackaton_Cloudinary)**: Interactive application showcasing advanced media API integration and optimization.
+* **[Ardva (Home Automation)](https://github.com/CLStudioES/Ardva)**: Full-stack IoT ecosystem for real-time home monitoring (Award-winning project).
+* **[42 School Projects](https://github.com/CLStudioES/42Projects)**: Deep-level implementations of algorithms, memory management, and Unix systems.
+* **[Beat'n Repair](https://v3.globalgamejam.org/2020/games/beatn-repair-3)**: Rhythmic game developed for Global Game Jam 2020.
+* **Web Templates Collection**: Production-ready TailwindCSS components for rapid development.
 
-**🤖 [42 School Projects](https://github.com/CLStudioES/42Projects)**
+---
 
-- Comprehensive programming curriculum
-- Algorithm and data structure implementations
-- System programming projects
+## • Languages
+* **Spanish**: Native.
+* **English**: C2 Proficiency (CPE) - Full Professional Proficiency.
 
-</div>
+---
 
-### 🎮 Game Development
-
-<div align="left">
-
-**🏆 [Global Game Jam 2020 - Beat'n Repair](https://v3.globalgamejam.org/2020/games/beatn-repair-3)**
-
-- Collaborative game development project
-- 48-hour game jam challenge
-
-**👾 [42Madrid GGJ Symposium](https://github.com/CLStudioES/42Madrid-GGJ)**
-
-- Indie game development showcase
-- Unity-based projects
-
-</div>
-
-### 🏠 IoT & Automation
-
-<div align="left">
-
-**🏡 [Ardva - Home Automation](https://github.com/CLStudioES/Ardva)**
-
-- Smart home automation system
-- IoT device integration
-- Real-time monitoring
-
-</div>
-
-### 🌐 Coming Soon
-
-<div align="left">
-
-**🌐 Web Templates & Components Collection**
-
-- Free TailwindCSS web templates
-- Reusable UI components
-- _Currently in development_ 🚧
-
-</div>
-
-
+## • Connect
+[CLStudio.dev](https://clstudio.dev/) • [X (@CLDev94)](https://x.com/CLDev94)
