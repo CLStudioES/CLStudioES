@@ -6,8 +6,8 @@ Software Engineer with +14 years of coding experience and +8 years of profession
 
 ## • About Me
 
-* 🚀 **Currently Building**: **[TailEngine](https://github.com/CLStudioES/TailEngine)**, a developer-focused platform that compiles Tailwind CSS v4 into compliant, inline-styled HTML for professional emails.
-* 🎨 **Open Source**: Author of the **[Tailwind CSS v4 Migrator](https://github.com/CLStudioES/tailwind-v4-migrator)**, an automated platform to migrate Tailwind CSS v3 style configurations into the modern v4 CSS variable format.
+* 🚀 **Currently Building**: **[TailEngine](https://tailmail.vercel.app/)**, a developer-focused platform that compiles Tailwind CSS v4 into compliant, inline-styled HTML for professional emails.
+* 🎨 **Open Source**: Author of the **[Tailwind CSS v4 Migrator](https://tailwind-v4-migrator.vercel.app/)**, an automated platform to migrate Tailwind CSS v3 style configurations into the modern v4 CSS variable format.
 * 📊 **Background**: Co-creator of **Gipfarma Analytics**, a comprehensive CRM/Analysis platform for the pharmaceutical sector.
 * 🗣️ **Languages**: Native Spanish and **C2 Proficiency (CPE)** English (Cambridge Certified).
 
@@ -35,7 +35,7 @@ Software Engineer with +14 years of coding experience and +8 years of profession
 
 ---
 
-## • Featured Projects
+## • Current Projects
 
 ### ⚡ TailEngine
 A developer-focused platform that compiles Tailwind CSS v4 into compliant, inline-styled HTML for professional emails.
