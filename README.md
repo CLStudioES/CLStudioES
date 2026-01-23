@@ -92,6 +92,8 @@ module.exports = {
 
 ## • Other Projects
 
+* **[PromoWall](http://promowall.es/)**: Scalable Digital Signage SaaS platform featuring multi-tenant architecture, real-time device synchronization via Socket.io, and automated content scheduling.
+    * **Demo Access:** `demo@promowall.com` | `PromoWall25`
 * **[Cloudinary Spooky Hackathon](https://github.com/CLStudioES/spookyHackaton_Cloudinary)**: Interactive application showcasing advanced media API integration and optimization.
 * **[Ardva (Home Automation)](https://github.com/CLStudioES/Ardva)**: Full-stack IoT ecosystem for real-time home monitoring (Award-winning project).
 * **[42 School Projects](https://github.com/CLStudioES/42Projects)**: Deep-level implementations of algorithms, memory management, and Unix systems.
